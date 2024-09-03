@@ -1005,11 +1005,4 @@ button0.grid(row=4,column=2)
 buttonDiv=Button(calframe,text='/',font=('Times New Roman',16,'bold'),fg='yellow',bg='#5676a9',bd=6,width=9,command=lambda:buttonclick('/'))
 buttonDiv.grid(row=4,column=3)
 
-
-
-
-
-
-
-
 mainloop()
