@@ -1,0 +1,73 @@
+RECEIPT Ref:		BILL9402		03/09/2024
+*********************************************
+Items:		cost of items(Rs)
+*********************************************
+Roti			30
+
+Daal			60
+
+Fish			100
+
+Sabji			50
+
+KAbab			60
+
+Chawal			40
+
+Mutton			150
+
+Paneer			100
+
+Chicken			120
+
+Lassi			50
+
+Coffee			30
+
+Faluda			30
+
+Shikanji			30
+
+Jaljeera			30
+
+Roohafza			50
+
+Masala Tea			60
+
+Badam milk			70
+
+Cool drink			100
+
+Oreo			100
+
+Coffee			150
+
+Kitkat			100
+
+Vanilla			50
+
+Banana			100
+
+brownie			200
+
+pineapple			150
+
+Chocolate			90
+
+Black forest			250
+
+*********************************************
+cost of Food 			710Rs
+
+cost of Drinks			450Rs
+
+cost of Cakes			1190Rs
+
+Subtotal			2350Rs
+
+Service Tax			50Rs
+
+Total cost			2400Rs
+
+*********************************************
+
